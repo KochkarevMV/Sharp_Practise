@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿// Квадрат числа
+Console.Clear();
 Console.WriteLine("Введите число: ");
 Console.ReadLine();
 int a = int.Parse(Console.ReadLine());
