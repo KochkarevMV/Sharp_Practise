@@ -1,0 +1,15 @@
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.csproj.AssemblyReference.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.AssemblyInfoInputs.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.AssemblyInfo.cs
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.csproj.CoreCompileInputs.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\bin\Debug\net6.0\Task 12 Кратное число из двух.exe
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\bin\Debug\net6.0\Task 12 Кратное число из двух.deps.json
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\bin\Debug\net6.0\Task 12 Кратное число из двух.runtimeconfig.json
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\bin\Debug\net6.0\Task 12 Кратное число из двух.dll
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\bin\Debug\net6.0\Task 12 Кратное число из двух.pdb
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.dll
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\refint\Task 12 Кратное число из двух.dll
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.pdb
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\Task 12 Кратное число из двух.genruntimeconfig.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 12 Кратное число из двух\obj\Debug\net6.0\ref\Task 12 Кратное число из двух.dll
