@@ -1,0 +1,15 @@
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\bin\Debug\net6.0\Task 13 Кратное ли сразу двум числам.exe
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\bin\Debug\net6.0\Task 13 Кратное ли сразу двум числам.deps.json
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\bin\Debug\net6.0\Task 13 Кратное ли сразу двум числам.runtimeconfig.json
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\bin\Debug\net6.0\Task 13 Кратное ли сразу двум числам.dll
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\bin\Debug\net6.0\Task 13 Кратное ли сразу двум числам.pdb
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.csproj.AssemblyReference.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.AssemblyInfoInputs.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.AssemblyInfo.cs
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.csproj.CoreCompileInputs.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.dll
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\refint\Task 13 Кратное ли сразу двум числам.dll
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.pdb
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\Task 13 Кратное ли сразу двум числам.genruntimeconfig.cache
+E:\Обучение\GB - Тестир-е ПО\С#\HomeTasks\Task 13 Кратное ли сразу двум числам\obj\Debug\net6.0\ref\Task 13 Кратное ли сразу двум числам.dll
