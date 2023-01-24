@@ -115,3 +115,27 @@
 // Напишите программу,
 // которая принимает на вход число N и
 // выдаёт произведение чисел от 1 до N.
+// Произведение чисел от 1 до N - это факториал
+// Console.Clear();
+// Console.Write("Введите число: ");
+// int n = Convert.ToInt32(Console.ReadLine()), count = 1;
+// for (int i = 2; i <= n; i++)
+//     count = count * i;
+
+// Console.WriteLine(count);
+
+
+// ЗАДАЧА
+// Напишите программу, которая
+// выводит массив из 8 элементов,
+// заполненный нулями и единицами в
+// случайном порядке.
+
+// Console.Clear();
+// Console.Write("Введите кол-во элементов массива: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] array = new int[8];
+// for (int i = 0; i < array.Length; i++)
+//     array[i] = new Random().Next(0, 2);
+
+// Console.WriteLine($"Результат: {string.Join(",", array)}");
