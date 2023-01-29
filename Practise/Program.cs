@@ -32,14 +32,27 @@
 
 // Факториал через метод
 
-Console.Clear();
-double Factorial (int n)
+// Console.Clear();
+// double Factorial (int n)
+// {
+//     if (n == 1) return 1;
+//     else return n * Factorial(n-1);
+// }
+// for (int i = 1; i < 20; i++)
+// // int = 0 в начале приведёт к бесконечной рекурсии и ошибке Stack Overflow
+// {
+//     Console.WriteLine($" {i}! = {Factorial(i)}");
+// }
+
+
+// Нахождение ряда чисел Фибоначчи
+
+int Fibonacci (int n)
 {
-    if (n == 1) return 1;
-    else return n * Factorial(n-1);
+    if(n == 1 || n == 2) return 1;
+    else return Fibonacci(n-1) + Fibonacci(n-2);
 }
-for (int i = 1; i < 20; i++)
-// int = 0 в начале приведёт к бесконечной рекурсии и ошибке Stack Overflow
+for(int i = 1; i < 20; i++)
 {
-    Console.WriteLine($" {i}! = {Factorial(i)}");
+    Console.WriteLine($"f({i}) = {Fibonacci(i)}");
 }
